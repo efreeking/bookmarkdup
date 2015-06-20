@@ -1,7 +1,5 @@
 content   bookmarkdup                content/
 skin      bookmarkdup  classic/1.0   skin/
 locale    bookmarkdup  en-US         locale/en-US/
-
+locale    bookmarkdup  zh-CN  locale/zh-CN/
 overlay chrome://browser/content/browser.xul  chrome://bookmarkdup/content/browserOverlay.xul
-
-
