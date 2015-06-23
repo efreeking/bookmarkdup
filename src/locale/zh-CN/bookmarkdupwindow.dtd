@@ -1,0 +1,5 @@
+<!ENTITY bookmarkdup.bmdupwindow.title "重复书签清理器">
+<!ENTITY bookmarkdup.lbDupUris.label "重复项(标题)">
+<!ENTITY bookmarkdup.lbDupDetails.label "书签(位置)">
+<!ENTITY bookmarkdup.btnOpenBmark.label "打开">
+<!ENTITY bookmarkdup.btnDelBmarks.label "删除">
